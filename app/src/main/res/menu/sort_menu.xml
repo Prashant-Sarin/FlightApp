@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/btn_price"
+        android:title="@string/price_low_to_high"
+        app:showAsAction="collapseActionView|withText" />
+    <item
+        android:id="@+id/btn_time"
+        android:title="@string/departure_time_early_to_late"
+        app:showAsAction="collapseActionView|withText" />
+</menu>
